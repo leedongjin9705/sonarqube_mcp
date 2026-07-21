@@ -1,6 +1,8 @@
 # sonarqube_mcp
 sonarqube_mcp 사용 메뉴얼
 
+part1
+
 power shell, cursor, 도커 데스크탑 기준
 
 SonarQube mcp 설치
@@ -45,4 +47,6 @@ sonar auth status
 
 SonarScanner로 전체 스캔
 
+<img width="745" height="51" alt="image" src="https://github.com/user-attachments/assets/2befc1dd-101c-4449-8b18-1ad62c9a93ba" />
+무료 플랜은 5만줄 인 듯 하다.
 
